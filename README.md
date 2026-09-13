@@ -15,11 +15,7 @@
 网站提供按应用场景浏览、术语检索和术语详情页。首页从户用储能、工商业储能、大型储能和光储充一体化四个场景开始，也列出常用术语，方便从具体问题进入概念。
 
 <a href="https://energy.kikoor.com/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/website-home-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/website-home-light.png">
-    <img src="assets/website-home-light.png" alt="储能行业术语参考网站首页预览" width="100%">
-  </picture>
+  <img src="assets/website-home-dark.png" alt="储能行业术语参考深色网站首页预览" width="100%">
 </a>
 
 ## 安装与使用
